@@ -113,8 +113,6 @@ Open http://localhost:5601/ in your browser
 
 ### Latest Bike Counts Table
 
-![Latest Bike Counts Table](kibana_Dashboard/Table_of_available_bikes.png)
+![Latest Bike Counts Table](kibana_Dashboard/Table_of_available_Bikes.png)
 
-*Description:* This image features the latest bike counts in different cities in the last 30 seconds.
-
-
+*Description:* This image features the latest bike counts in different cities.
