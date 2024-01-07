@@ -110,9 +110,8 @@ Open http://localhost:5601/ in your browser
 
 *Description:* This image illustrates the evolution of bike counts in three selected cities.
 
-
 ### Latest Bike Counts Table
 
-![Latest Bike Counts Table](kibana_Dashboard/Table_of_available_Bikes.png)
+![Latest Bike Counts Table](Kibana_Dashboard/Table_of_available_Bikes.png)
 
 *Description:* This image features the latest bike counts in different cities.
