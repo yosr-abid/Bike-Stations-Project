@@ -46,7 +46,7 @@ query = df.writeStream \
          .option("es.nodes", "127.0.0.1")\
          .option("es.port", "9200")\
          .option("es.index.auto.create", "true") \
-         .option("es.resource", "bike")\
+         .option("es.resource", "stations")\
          .option("es.nodes.wan.only", "true") \
          .option("checkpointLocation", "C:/Users/MSI/Documents/YOSR/AIM/BigData/projects/checkpoints/new") \
          .start()
